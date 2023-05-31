@@ -46,7 +46,7 @@ public class SearchCVTest {
     @Test
     public void testSwitch(){
         String header = searchPage.getCvHeader().getText();
-        String pattern = "Найдено .*(\\d) резюме у .*(\\d) соискателя";
+        String pattern = "Найдено .*(\\d) резюме у .*(\\d) соискател.*";
         assertTrue(header.matches(pattern));
     }
 
