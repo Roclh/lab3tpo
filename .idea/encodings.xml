@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/pages/ProfilePage.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/AuthTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/CreateVacancyTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/SearchCVTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/SearchCompanyTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/SearchTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/SearchVacancyTest.java" charset="windows-1251" />
+  </component>
+</project>
